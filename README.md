@@ -82,4 +82,3 @@ data-warehouse-project/
 ├── README.md                           # Project overview and instructions
 ├── LICENSE                             # License information for the repository
 ```
-[![Join](https://img.shields.io/badge/Join-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@datawithbaraa)
